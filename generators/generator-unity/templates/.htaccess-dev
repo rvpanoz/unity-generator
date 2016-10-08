@@ -1,0 +1,4 @@
+<IfModule alias_module>
+SetEnv unity_lib_path <%= lib_path %>
+SetEnv unity_lib_url /lib
+</IfModule>

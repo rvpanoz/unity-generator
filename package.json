@@ -1,0 +1,18 @@
+{
+  "name": "generator-unity",
+  "version": "1.0.0",
+  "description": "unity application generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "generators/generator-unity"
+  ],
+  "author": "parvanitis@singularlogic.eu",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.4",
+    "yeoman-generator": "^0.24.1"
+  }
+}
